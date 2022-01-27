@@ -1,11 +1,29 @@
-header{
+article{
+    font-size: 21px;
+    color: gray;
+}
+h1{
     font-weight: normal;
     font-size: 50px;
-    color: white;
+}
+
+h2{
+    font-weight: 300;
+    font-size: 42px;
 }
 
 html {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: black;
     text-align: center;
+    color: white;
+}
+
+.download_link{
+    color: aquamarine;
+}
+
+#copyright{
+    text-align: right;
+    color: gray;
 }
